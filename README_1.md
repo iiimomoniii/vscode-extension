@@ -1,4 +1,4 @@
-# vscode-extension
+# .NetCore Vscode-extension
 
 1. Bookmarks
 2. htmltagwrap

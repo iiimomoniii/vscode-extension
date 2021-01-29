@@ -1,4 +1,4 @@
-# vscode-extension
+# Angular Vscode-extension
 
 1. Angular Language Service
 2. Angular Snippests (Version 9)
